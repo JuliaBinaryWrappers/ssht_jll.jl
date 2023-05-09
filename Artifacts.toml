@@ -1,143 +1,143 @@
 [[ssht]]
 arch = "aarch64"
-git-tree-sha1 = "9e2947ab0ed03d706ad0abc97b9060e8a1eacf24"
+git-tree-sha1 = "1d88b2afcb6ebdadffecbe1455939a985e511f37"
 os = "macos"
 
     [[ssht.download]]
-    sha256 = "b62ccc3c474c954d1cb1289d196f88569cfe4b37989599841ad4bf9fef76f632"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "bb02be53fbde6bc3180e7955824f810621928e3998a29c1f2a10d694a8e7ac0b"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.aarch64-apple-darwin.tar.gz"
 [[ssht]]
 arch = "aarch64"
-git-tree-sha1 = "b6b64915b0ee6390a18c1ab07c0053f20b8a4a97"
+git-tree-sha1 = "b603c06e8c2b90654e2dede677c1f618afad434b"
 libc = "glibc"
 os = "linux"
 
     [[ssht.download]]
-    sha256 = "b91f57867ce6031d95081c6faf2e482c2a243322874907277be66e37a6dae327"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "84d7f77260a4671348e00e791e121ea073ace66e93afe19d84051f42c1bb7b35"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.aarch64-linux-gnu.tar.gz"
 [[ssht]]
 arch = "aarch64"
-git-tree-sha1 = "a4d13669c3fa0505818c3546e2ecaa18dae8dff9"
+git-tree-sha1 = "1967687f0eefaa0326c5e915921517d112e3ccdd"
 libc = "musl"
 os = "linux"
 
     [[ssht.download]]
-    sha256 = "736a5b8d2a4ee7072839d501791cc17ccd0abefa474ed0b5fd0378e9876109eb"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.aarch64-linux-musl.tar.gz"
+    sha256 = "2a2f5c1d4c4d5ba3e7a35587bdfdb47cd2b032ac822bd00cbc1d2874bf7ad7b3"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.aarch64-linux-musl.tar.gz"
 [[ssht]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7bb25ac509645c92e6e3a85b7118c1cf3c01be28"
+git-tree-sha1 = "f31f2fc8b00474b9b5eb0ad606d4138813b36512"
 libc = "glibc"
 os = "linux"
 
     [[ssht.download]]
-    sha256 = "9b4567f283f0e6c4a156df5a1f721093fe3a43a0669e6dc03df6a4f159e5d990"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "429c429c1c24fdf71e09e9e1452b8d63ad7199a392660ff3ad6dab4034a2f2b0"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.armv6l-linux-gnueabihf.tar.gz"
 [[ssht]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "17d9e3c8b298af10fbf5c34cd22255ec337edc56"
+git-tree-sha1 = "53d7e68c162531f2670bea7ae3d027e5f19d868a"
 libc = "musl"
 os = "linux"
 
     [[ssht.download]]
-    sha256 = "7278f70aac3f7f29fb2282d46d25d589e23941fd092f2e9c85fd564725228f94"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "defb5856ee18084a0ec02289dad1515cf1e8eb302fc640974a1f392949ce644f"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.armv6l-linux-musleabihf.tar.gz"
 [[ssht]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "da1415158cde4272403d646d3cb6a41e354d6f19"
+git-tree-sha1 = "aea443b5521840252d8692d78ac122511df702dc"
 libc = "glibc"
 os = "linux"
 
     [[ssht.download]]
-    sha256 = "dfc50f3cc54dab0117b7c577b39af533e515f65860cb5528b334c1c4c38192d4"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "725186b811b98cefbbd2faaa3978ea2d93d98268c6bfcd31ed8f9569a57bedde"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.armv7l-linux-gnueabihf.tar.gz"
 [[ssht]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "d3d9966830631dd49c4fb1a29d7572023e2a66df"
+git-tree-sha1 = "2107f0f02ccd095183c1c339f66275241dc168db"
 libc = "musl"
 os = "linux"
 
     [[ssht.download]]
-    sha256 = "062e98a69268cc91b3d2e2b765de14338d6adc294b2aa9b51aaf533d7b103b01"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "39d08de9e3327ed224607b0806bf5e80e8500556452c77be40b5fc57f442926b"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.armv7l-linux-musleabihf.tar.gz"
 [[ssht]]
 arch = "i686"
-git-tree-sha1 = "e249469333c363a0e1b5d90099aec433db9aba4e"
+git-tree-sha1 = "b058472e376e9384e560e5faacff7ae558ca6402"
 libc = "glibc"
 os = "linux"
 
     [[ssht.download]]
-    sha256 = "b0ebdce5b9b332d65db424a72de67c5e20f9d43348016f1468c87dcc90d2f213"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.i686-linux-gnu.tar.gz"
+    sha256 = "e65e1b47be264fce6cb616dcacd3d9034a96865d953e11d8f66dae1571cba19d"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.i686-linux-gnu.tar.gz"
 [[ssht]]
 arch = "i686"
-git-tree-sha1 = "4ce55f557b4671b9b0b24661aa4cbb71ee8d0da0"
+git-tree-sha1 = "784201ad628086c67e95bfb1444b89fb1829127e"
 libc = "musl"
 os = "linux"
 
     [[ssht.download]]
-    sha256 = "1f0e4f0d1974ea56a93555edaecbf735e8ba1f0e362e50259232e90cee15840e"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.i686-linux-musl.tar.gz"
+    sha256 = "60a33e5a971808872497beecd218341d9ca5b74c15b7c61ee8e12a9fa58f8e23"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.i686-linux-musl.tar.gz"
 [[ssht]]
 arch = "i686"
-git-tree-sha1 = "c859904dfeb5433bb951bafa4757991ca6c093cc"
+git-tree-sha1 = "c2a390a8b9ba9b69c79ad36349361098dc1f2f03"
 os = "windows"
 
     [[ssht.download]]
-    sha256 = "b7780b01058bfc96df062df7c64a331a03f9da959d1a62321f2288811c4dfcb9"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.i686-w64-mingw32.tar.gz"
+    sha256 = "287cb2b95b821e20effd7a5c965c230adc4d35728366b31192e5d21b42fae833"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.i686-w64-mingw32.tar.gz"
 [[ssht]]
 arch = "powerpc64le"
-git-tree-sha1 = "2b81418863c958dd317fb825476726d949ca9421"
+git-tree-sha1 = "20ae8f8b8c8af35e95d337230d66c5a6c3569188"
 libc = "glibc"
 os = "linux"
 
     [[ssht.download]]
-    sha256 = "be6728966e3b0977a124a0b05b00a17189cc722ac381ee66e37c963d7db7d9a5"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "295f4652147003a238428b0212679f5e58acb32fc4a5866ef4ade7ac6afa795c"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.powerpc64le-linux-gnu.tar.gz"
 [[ssht]]
 arch = "x86_64"
-git-tree-sha1 = "0611be7bb0d16a59efe2555ef0ebb687658ec7c1"
+git-tree-sha1 = "22ab0c3e12d90342b12cf8b34fbe702f048b503f"
 os = "macos"
 
     [[ssht.download]]
-    sha256 = "7ad2c3db00d87c0fcbbc97f1623168cc9d060c91ce0c59ae75b6783eb388654b"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "248245c4ff3f0ac051ff8b99b1c8499989917ab5993a24460ccd725661a3fd96"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.x86_64-apple-darwin.tar.gz"
 [[ssht]]
 arch = "x86_64"
-git-tree-sha1 = "27c13f123277614f04838ffffc27650d3f2e577e"
+git-tree-sha1 = "3813be9580b4d801e4981b07aa6fa2b9e8797471"
 libc = "glibc"
 os = "linux"
 
     [[ssht.download]]
-    sha256 = "55326f97db75262ee82bd74ffefbcd064c4bc99b9d438f6f45e7fc6172dae55d"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "6ca25d46f7a7abc209f965c8ce8418091b2b75c2869d7f5dd7e407b07930677a"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.x86_64-linux-gnu.tar.gz"
 [[ssht]]
 arch = "x86_64"
-git-tree-sha1 = "6c3a403229a56b19ede6a519f0584e50965def6e"
+git-tree-sha1 = "d6e7b7921368dbcdd9340fcaeeabf02596b9810e"
 libc = "musl"
 os = "linux"
 
     [[ssht.download]]
-    sha256 = "668a78a8c327107e954e8cfb4e7d914b0a6d7add36ab4fdd085fc15cc0a86b58"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.x86_64-linux-musl.tar.gz"
+    sha256 = "f9fda25863be8ddb4375ac34c95f8a7530b08dcdb34c1fa832a2b19f2d933109"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.x86_64-linux-musl.tar.gz"
 [[ssht]]
 arch = "x86_64"
-git-tree-sha1 = "ad400ba349ae0bfaf9789e54279f8b52a5d2c91c"
+git-tree-sha1 = "272138670ee202a6b6cc971df37e60431e658d69"
 os = "freebsd"
 
     [[ssht.download]]
-    sha256 = "f5bdbfe3602efef2673a227d8907e44894a3c23871db3df45829665ec12e67c8"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "31716efd11204caa6a802ea59a613464b7a8596e8283c5a9bdc1a52b0e2261c0"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.x86_64-unknown-freebsd.tar.gz"
 [[ssht]]
 arch = "x86_64"
-git-tree-sha1 = "feecb1d2fee2c88fd7cb41a30818e84dd0b11a39"
+git-tree-sha1 = "d3f8e8849a1d20067ef0f8417dd4be8862b4793c"
 os = "windows"
 
     [[ssht.download]]
-    sha256 = "cb2ed0136c6b3b12fa43a8a81a5e5a6405916ee0b030eecb90834e6e0b55fca4"
-    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.1+0/ssht.v1.5.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "214abf5990847d97a3c543aed1045d838302dd1d8b14e2f2f3df6edc8b298abd"
+    url = "https://github.com/JuliaBinaryWrappers/ssht_jll.jl/releases/download/ssht-v1.5.2+0/ssht.v1.5.2.x86_64-w64-mingw32.tar.gz"
